@@ -1,0 +1,10 @@
+jobs.xlsx
+~$*.xlsx
+.venv/
+__pycache__/
+.DS_Store
+*.pdf
+*.xlsx
+*.egg-info/
+.env
+debug/
